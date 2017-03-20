@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vanessa Trevino</title>
+	</head>
+	<body><img src="https://s3.amazonaws.com/codecademy-blog/assets/ninja_zpsa5dbe37a.jpg" />
+	    <p>This is me. I am a ninja. I like to fight crime and kick the butts of bad guys when I am not home with my family. Totally kidding. I am born and raised here in good ol' Corpus Christi, Texas but I am ready to venture off to where ever my career takes me. 
+	        <ul>
+	            <li style="color:pink">My Interests
+	            <ul>
+	            <li>horror films/books</li>
+	            <li>creating pieces of art</li>
+	            <li>being outdoors</li>
+	            <li>spending time with my family</li>
+	        </ul>
+	        </li>
+	        <li style="font-size:16px; font-family: Arial">States I would love to visit</li>
+	            <li>Lousiana</li>
+	            <li>California</li>
+	            <li>San Fransico</li>
+	            <li>Washington</li>
+	        <ul><em>Counties I would love to visit</em>
+	            <li>Thailand</li>
+	            <li>Colombia</li>
+	            <li>Australia</li>
+	            <li>Madagascar</li>
+	        </ul>
+	        <ol><strong>Favorite Authors</strong>
+	            <li>Stephen King</li>
+	            <li>Dean Koontz</li>
+	            <li>Anne Rice</li>
+	            <li>Amy Cross</li>
+	        </ol>
+	            
+	            
+	</body>
+</html>
